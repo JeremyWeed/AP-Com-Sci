@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=Quadratic(double,\ double,\ double)
+comment1.params=f
+comment1.target=Function\ add(Function)
+comment2.params=f
+comment2.target=Function\ subtract(Function)
+comment3.params=f
+comment3.target=Polynomial\ multiply(Function)
+comment4.params=
+comment4.target=double[]\ get()
+numComments=5

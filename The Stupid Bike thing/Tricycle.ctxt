@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=Tricycle(java.lang.String)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=void\ makePitStop()
+numComments=3

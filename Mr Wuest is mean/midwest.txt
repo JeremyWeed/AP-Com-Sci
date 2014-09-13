@@ -1,0 +1,16 @@
+1 Wichita State 
+2 Michigan 
+3 Duke
+4 Louisville 
+5 Saint Louis 
+6 Massachusetts 
+7 Texas 
+8 Kentucky 
+9 Kansas State 
+10 Arizona State 
+11 Iowa 
+12 NC State 
+13 Manhattan 
+14 Mercer 
+15 Wofford 
+16 Cal Poly 

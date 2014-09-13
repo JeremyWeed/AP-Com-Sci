@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=Unicycle(java.lang.String)
+comment1.params=
+comment1.target=void\ makePitStop()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=a
+comment3.target=void\ setA(int)
+comment4.params=
+comment4.target=int\ getA()
+numComments=5

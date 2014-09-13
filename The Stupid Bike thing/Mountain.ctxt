@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b\ tw\ br
+comment0.target=Mountain(java.lang.String,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getM()
+comment2.params=m
+comment2.target=void\ setM(int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ makePitStop()
+numComments=5

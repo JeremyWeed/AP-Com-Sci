@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=double\ averageVowels(java.util.ArrayList)
+comment1.params=l
+comment1.target=java.util.ArrayList\ swapPairs(java.util.ArrayList)
+comment2.params=one\ two
+comment2.target=java.util.ArrayList\ intersect(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=l
+comment3.target=java.util.ArrayList\ removeEvenLength(java.util.ArrayList)
+comment4.params=l
+comment4.target=java.util.ArrayList\ doubleList(java.util.ArrayList)
+comment5.params=l
+comment5.target=java.util.ArrayList\ minToFront(java.util.ArrayList)
+comment6.params=l
+comment6.target=java.util.ArrayList\ removeDuplicates(java.util.ArrayList)
+comment7.params=l\ k
+comment7.target=java.util.ArrayList\ stutter(java.util.ArrayList,\ int)
+numComments=8

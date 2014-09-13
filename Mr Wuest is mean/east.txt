@@ -1,0 +1,16 @@
+1 Virginia 
+2 Villanova 
+3 Iowa State 
+4 Michigan State 
+5 Cincinnati 
+6 North Carolina 
+7 Connecticut 
+8 Memphis American 
+9 George Washington 
+10 St. Joseph's 
+11 Providence 
+12 Harvard 
+13 Delaware 
+14 North Carolina Central
+15 Milwaukee 
+16 Coastal Carolina

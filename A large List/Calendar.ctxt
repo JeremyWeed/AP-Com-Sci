@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=year\ month\ day
+comment0.target=Calendar(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getYear()
+comment2.params=
+comment2.target=int\ getMonth()
+comment3.params=
+comment3.target=int\ getDay()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=c
+comment5.target=int\ compareTo(Calendar)
+numComments=6

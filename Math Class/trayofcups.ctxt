@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ i
+comment1.target=int\ lastIndexOf(int[],\ int)
+comment10.params=a\ p
+comment10.target=int\ priceIsRight(int[],\ int)
+comment2.params=a
+comment2.target=int\ range(int[])
+comment3.params=a
+comment3.target=int\ range2(int[])
+comment4.params=a\ min\ max
+comment4.target=int\ countInRange(int[],\ int,\ int)
+comment5.params=a
+comment5.target=int\ mode(int[])
+comment6.params=a
+comment6.target=double\ stdev(int[])
+comment7.params=a
+comment7.target=double\ avg(int[])
+comment8.params=a
+comment8.target=double\ median(int[])
+comment9.params=a
+comment9.target=double\ percentEven(int[])
+numComments=11

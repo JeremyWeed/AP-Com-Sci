@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=gpa\ height\ studentName
+comment0.target=Student(int,\ int,\ java.lang.String)
+comment1.params=o
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=
+comment2.target=int\ getGpa()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

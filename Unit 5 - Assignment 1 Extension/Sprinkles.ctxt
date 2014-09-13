@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=oT\ s
+comment0.target=Sprinkles(int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getIngrediants()
+comment2.params=
+comment2.target=java.lang.String\ getRecipe()
+comment3.params=
+comment3.target=java.lang.String[]\ getImage()
+comment4.params=
+comment4.target=int\ getSprinkles()
+numComments=5

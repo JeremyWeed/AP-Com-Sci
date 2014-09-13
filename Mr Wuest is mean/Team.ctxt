@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=name\ seed
+comment0.target=Team(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

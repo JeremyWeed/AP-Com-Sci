@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=oT\ c\ c2
+comment0.target=PeanutAndChocolateChip(int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getIngrediants()
+comment2.params=
+comment2.target=java.lang.String\ getRecipe()
+comment3.params=
+comment3.target=java.lang.String[]\ getImage()
+comment4.params=
+comment4.target=int\ getPChips()
+numComments=5

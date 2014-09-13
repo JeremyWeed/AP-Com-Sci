@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=Ant(double)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=double\ locate()
+numComments=3

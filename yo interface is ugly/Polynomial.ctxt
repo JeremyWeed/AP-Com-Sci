@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Polynomial(int[])
+comment1.params=v\ a
+comment1.target=void\ findFactors(java.util.Vector,\ int)
+comment2.params=
+comment2.target=void\ findPossRoots()
+comment3.params=equa\ root
+comment3.target=boolean\ synDiv(int[],\ double)
+comment4.params=
+comment4.target=void\ findRealRoots()
+comment5.params=
+comment5.target=java.util.Vector\ getVRoots()
+comment6.params=
+comment6.target=java.lang.Double[]\ getARoots()
+comment7.params=
+comment7.target=void\ NO_TOUCHY()
+comment8.params=v
+comment8.target=void\ removeDupes(java.util.Vector)
+numComments=9

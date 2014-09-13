@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=b\ tw\ br
+comment0.target=Bicycle(java.lang.String,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=void\ makePitStop()
+comment3.params=tw
+comment3.target=void\ setT(int)
+comment4.params=br
+comment4.target=void\ setBr(java.lang.String)
+comment5.params=
+comment5.target=int\ getTw()
+comment6.params=
+comment6.target=java.lang.String\ getBr()
+numComments=7

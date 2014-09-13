@@ -1,0 +1,16 @@
+1 Arizona 
+2 Wisconsin 
+3 Creighton 
+4 San Diego State
+5 Oklahoma 
+6 Baylor
+7 Oregon 
+8 Gonzaga 
+9 Oklahoma State 
+10 BYU 
+11 Nebraska 
+12 North Dakota State 
+13 New Mexico State 
+14 Louisiana-Lafayette 
+15 American 
+16 Weber State 

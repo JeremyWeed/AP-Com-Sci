@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=h\ a\ l
+comment0.target=Creature(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ roll()
+numComments=2
