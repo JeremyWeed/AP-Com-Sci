@@ -1,6 +1,4 @@
-
-Simulates a March Madness bracket using the seeds of the teams and a random number generator.  
-
+Simulates a March Madness bracket using seeds and a random number generator.
 
 
-Also Duke alwyas loses.
+Also Duke always loses.
